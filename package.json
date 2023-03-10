@@ -81,6 +81,6 @@
     "tinyurl": "^1.1.7",
     "translate-google": "^1.5.0",
     "yt-search": "github:talmobi/yt-search",
-    "ytdl-core": "^4.11.2"
+    "ytdl-core": "github/fent/node-ytdl"
   }
 }
