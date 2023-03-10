@@ -80,7 +80,7 @@
     "ssl-express-www": "^3.0.8",
     "tinyurl": "^1.1.7",
     "translate-google": "^1.5.0",
-    "yt-search": "^2.10.3",
+    "yt-search": "github:talmobi/yt-search",
     "ytdl-core": "^4.11.2"
   }
 }
